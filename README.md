@@ -73,3 +73,8 @@ Install gh-pages
 ```
 npm install gh-pages
 ```
+
+Deploy App
+```
+npm run deploy
+```
