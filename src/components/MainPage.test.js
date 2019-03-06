@@ -17,3 +17,7 @@ beforeEach(() => {
 it("renders MainPage without crashing", () => {
   expect(wrapper).toMatchSnapshot();
 });
+
+it("filters robots correctly", () => {
+  expect();
+});
